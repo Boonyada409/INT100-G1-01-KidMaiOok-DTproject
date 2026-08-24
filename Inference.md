@@ -1,11 +1,11 @@
 # Inference 🧐
     This section was made by Batcha Palalay 69130500033
 ## User Inference 👀
-    Hafik
+ Hafik
 - He find sewer smells to be Islamic College of Thailand big problem, because the smell is spreading across places inside the school which causes bad environment around the place.
 - He said that the problem is because of trashes and junks from the sewer center infront of the school, He did observe about this before so he knew pretty well about what he is saying.
-#
-    Fadil
+        
+Fadil
 - He find trashes around the school to be the big problem, because it causes bad environment and make places look outdated, and it cause a pretty bad reoutation to the school.
 - He said that the problem is from the other students, because they didn't care to trash their things into the trash can and choose to trash it wherever they like, which is the main reason that causes this problem.
 ## Our Team Inference 👥👥
