@@ -1,5 +1,5 @@
 # Inference 🧐
-    This section was made by Batcha Palalay 69130500033
+This section was made by Batcha Palalay 69130500033
 ## User Inference 👀
     Hafik
 - He find sewer smells to be Islamic College of Thailand big problem, because the smell is spreading across places inside the school which causes bad environment around the place.
