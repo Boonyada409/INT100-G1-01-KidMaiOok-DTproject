@@ -17,7 +17,7 @@ Teacher Toon
 - He find school budget to be the school problem, because it extended and/or causes problems in the school to be unfixable or un-upgradable.
 - He said that the problem is because school never had enough money to do anything.
 
-Teacher Jubpol
+Teacher Jumpol
 - He find that most of the students are addicted to social media, which cause student to not pay attention to the class.
 - He said that the problem is because how interesting and easy to get into social media are, it steal student attention easily.
 ## Our Team Inference 👥👥
