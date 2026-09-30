@@ -25,7 +25,7 @@
 
 1 ทำในส่วน POV Statement ของแต่ละคนที่ไปสัม และ POV final idea
 
-2 ทำ Prototype ให้สมบูรณ์ และ Test scrip
+2 ทำ Prototype ให้สมบูรณ์ และ Test script
 
 3 กำหนดวัตถุประสงค์และเกณฑ์การทดสอบ Prototype เพื่อใช้ตรวจสอบว่า Prototype ตอบโจทย์ผู้ใช้หรือไม่
 
