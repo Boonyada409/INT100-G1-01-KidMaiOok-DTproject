@@ -1,25 +1,25 @@
 # User Inference 🧐
     Made by Batcha Palalay 69130500033
 ## From User 👀
-Hafik
-- He find sewer smells to be problem in the school, because the smell is so bad it spread and floating around the school causing bad environment that affect people in the area.
-- He did observe the problem before, which become very useful for us because he got both quality and quantity of the problem intel, basically an extremely user for us, He said that the sewer center is at outside of the school, a place that alot of people passing by so people may throw in trash into the pit causing the problem.
+ฮาฟิค
+- ฮาฟิคบอกว่าท่อน้ำภายในโรงเรียนเป็นปัญหา เพราะว่าท่อน้ำส่งกลิ่นเหม็นออกมาฟุ้งทั่วโรงเรียน ทำให้สภาพแวดล้อมภายในโรงเรียนแย่ ส่งผลเสียต่อผู้คนในบริเวณ
+- ฮาฟิคบอกว่าเขาเคยลองตรวจสอบปัญหานี้ด้วยตัวเองมาก่อนแล้ว ทำให้ข้อมูลที่ได้รับจากฮาฟิคมีประโยชมาก เพราะฮาฟิครู้ทั้งข้อมูลเชิงปริมาณและเชิงคุณภาพของปัญหา เรียกได้ว่าเป็น extreme user เลย ฮาฟิคบอกว่าฐานขงท่ออยู่หน้าโรงเรียน ทำให้ผู้คนที่อยู่นอกโรงเรียนที่เดินผ่านอาจเป็นคนที่โยนขยะลงไปในท่อ ทำให้เกิดปัญหานี้
 
-Fadil
-- He find trashes and junks to be problem in the school, because it causes the place to look dirty, making bad environment and reputation to the school.
-- He said that this problem is causes by students in the school that do not care to trash their trash in the trash can.
+ฟาดิล
+- ฟาดิลบอกว่าขยะภายในโรงเรียนเป็นปัญหา เพราะว่ามันทำให้พื้นที่โรงเรียนดูสกปรก ทำให้โรงเรียนดูไม่สะอาด
+- ฟาดิลบอกว่าปัญหานี้เกิดจากนักเรียนภายในโรงเรียนที่ไม่สนใจที่จะช่วยทิ้งขยะให้เป็นที่
 
-Farn
-- He find bully problem in the school, it causes both mentally and physical harm to people who got bullied.
-- He said that the problem is from just because the bully have the urge to bully others just because of their races and religions.
+ฟาน
+- ฟานพบปัญหาการกลั่นแกล้งในโรงเรียน ซึ่งก่อให้เกิดผลกระทบทั้งทางร่างกายและจิตใจต่อผู้ที่ถูกกลั่นแกล้ง
+- ฟานกล่าวว่าปัญหาดังกล่าวมีสาเหตุมาจากการที่ผู้กระทำมีความต้องการที่จะกลั่นแกล้งผู้อื่น เพียงเพราะเรื่องเชื้อชาติและศาสนาที่ต่างกัน
 
-Teacher Toon
-- He find school budget to be the school problem, because it extended and/or causes problems in the school to be unfixable or un-upgradable.
-- He said that the problem is because school never had enough money to do anything.
+อาจารย์ตูน
+-อาจารย์ตูนมองว่าเรื่องงบประมาณเป็นปัญหาของโรงเรียนเนื่องจากงบประมาณดังกล่าวส่งผลให้ปัญหาต่าง ๆ ภายในโรงเรียนยืดเยื้อ หรือทำให้ไม่สามารถแก้ไขหรือปรับปรุงสิ่งต่างๆ ให้ดีขึ้นได้
+- อาจารย์ตูนบอกว่าปัญหาคือโรงเรียนไม่เคยมีเงินเพียงพอที่จะทำอะไรได้เลย
 
-Teacher Jumpol
-- He find that most of the students are addicted to social media, which cause student to not pay attention to the class.
-- He said that the problem is because how interesting and easy to get into social media are, it steal student attention easily.
+อาจารย์จุมพล
+- อาจารย์จุมพลพบว่านักเรียนส่วนใหญ่เสพติดโซเชียลมีเดีย ซึ่งส่งผลให้นักเรียนไม่ตั้งใจเรียนในห้องเรียน
+-อาจารย์จุมพลบอกว่าปัญหาคือโซเชียลมีเดียนั้นน่าสนใจและเข้าถึงง่ายจึงดึงดูดความสนใจของนักเรียนไปได้อย่างง่ายดาย
 ## Our Team Inference 👥👥
-- We find that most of the problem that happen inside the school are causes from students, because of how reckless the students are, and some problem are very far from our hand because it is inside the government.
-- Most of the problem have easy solution, but very hard to solve because of the students in the school are really not trying to cooperate with the solution.
+- เราพบว่าปัญหาที่เกิดขึ้นภายในโรงเรียนส่วนใหญ่มีสาเหตุมาจากตัวนักเรียนเอง เนื่องจากความขาดความระมัดระวังหรือความประมาทเลินเล่อของนักเรียน ในขณะที่ปัญหาบางอย่างก็เป็นเรื่องที่อยู่นอกเหนือการควบคุมของเรา เพราะเป็นประเด็นที่เกี่ยวข้องกับหน่วยงานภาครัฐ
+- ปัญหาส่วนใหญ่มีทางออกที่ง่าย แต่กลับปฎิบัติจริงได้ยากมาก เพราะตัวนักเรียนเองไม่ให้ความร่วมมือที่จะปฎิบัติหน้าที่ตามวิธีการแก้ปัญหา
