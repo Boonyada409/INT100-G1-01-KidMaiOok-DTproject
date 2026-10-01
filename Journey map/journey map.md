@@ -1,9 +1,9 @@
 # Journey map📚📙
 ## ฮาฟิก & ฟาดิ้ล นักเรียนมัธยมปลาย
-![alt text](Hafig.png)
+![alt text](HafigAFadil.png)
 _______________________________________
 ## ฟาน - รองประธานนักเรียน
-![alt text](Hafig.png)
+![alt text](Fan.png)
 _______________________________________
 ## คุณครูจุมพล
 ![alt text](Hafig.png)
